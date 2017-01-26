@@ -37,6 +37,6 @@ Q: Why didn't you just create this in powershell?
 
 A: I was too lazy to learn powershell. 
 
-Q: Will this find APT?
+Q: Will this find all persistence methods?
 
-A: Certainly not. 
+A: No, only those in Powershell Emprire and only those that perist through reboots.
