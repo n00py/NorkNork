@@ -1,5 +1,4 @@
-# NorkNork
-# AngryHippo - Tool for identifying Empire persistence payloads
+# NorkNork - Tool for identifying Empire persistence payloads
 
 ## ABOUT:
 This script was designed to identify Powershell Empire persistence payloads on Windows systems.  
