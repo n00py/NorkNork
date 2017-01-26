@@ -19,7 +19,7 @@ You can run this script with python 2.7 or by downloading the pyinstaller exe.  
 
 ### Running the python script
 ```
-PS C:\Users\>pytohn norknork.py
+PS C:\Users\>python norknork.py
 ```
 ### Running the binary
 ```
@@ -33,3 +33,6 @@ PS C:\Users\> .\norknork.exe > results.txt
 
 ###FAQ:
 
+Q: Why didn't you just create this in powershell?
+
+A: I was too lazy to learn powershell. 
