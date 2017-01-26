@@ -187,10 +187,37 @@ def wmi():
     decode(base64evil)
     print "-----------------------------------------------------------------------------------------------------------"
 
-evil_ssp()
-disable_machine_acct_change()
-misc_debugger()
-schtasks()
-registry()
-wmi()
-debug_payloads()
+def main():
+
+    try:
+        evil_ssp()
+    except:
+        pass
+    try:
+        disable_machine_acct_change()
+    except:
+        pass
+    try:
+        misc_debugger()
+    except:
+        pass
+    try:
+        schtasks()
+    except:
+        pass
+    try:
+        registry()
+    except:
+        pass
+    try:
+        wmi()
+    except:
+        pass
+    try:
+        debug_payloads()
+    except:
+        pass
+
+if __name__ == "__main__":
+
+    main()
