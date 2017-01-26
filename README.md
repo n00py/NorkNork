@@ -30,7 +30,7 @@ PS C:\Users\> .\norknork.exe
 PS C:\Users\> .\norknork.exe > results.txt
 
 ```
-
+![alt tag](https://github.com/n00py/NorkNork/blob/master/norknork.png)
 ###FAQ:
 
 Q: Why didn't you just create this in powershell?
