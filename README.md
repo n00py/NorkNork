@@ -36,3 +36,7 @@ PS C:\Users\> .\norknork.exe > results.txt
 Q: Why didn't you just create this in powershell?
 
 A: I was too lazy to learn powershell. 
+
+Q: Will this find APT?
+
+A: Certainly not. 
