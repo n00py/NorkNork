@@ -1,5 +1,5 @@
 # NorkNork - Tool for identifying Empire persistence payloads
-
+https://www.n00py.io/2017/01/removing-backdoors-powershell-empire-edition/
 ## ABOUT:
 This script was designed to identify Powershell Empire persistence payloads on Windows systems.  
 It currently supports checks for these persistence methods:
